@@ -254,7 +254,8 @@ section{
 }
 @media (max-width: 767px) {
     #one {
-        margin-top: -15rem;
+         position: relative;
+         top: -12rem;
     }
 }
 /* End About */
